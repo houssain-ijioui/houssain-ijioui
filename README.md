@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @houssain-ijioui
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning nodeJS / Flask / Django / NextJS / ReactJS 
+- 🌱 nodeJS / Flask / Django / NextJS / ReactJS 
 - 💞️ I’m looking to collaborate on Frontend & Backend Web Applications
 - 📫 Reach me at lhoucine.ijioui@gmail.com / Twitter: @HoussainIjioui
 
